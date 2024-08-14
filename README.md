@@ -1,6 +1,6 @@
 ## Olá, meu nome é Gustavo Yoshizawa
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)]([https://www.linkedin.com/in/gustavo-yoshizawa-17915619b/](https://www.linkedin.com/in/gustavo-yoshizawa-17915619b/))
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/gustavo-yoshizawa-17915619b/)
 
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoyoshizawa&show_icons=true&theme=tokyonight)
 
