@@ -48,7 +48,7 @@
 <h3 align="center">Cloud & Ferramentas</h3>
 
 <p align="center">
-  <img alt="AWS S3, Athena e EC2" src="https://img.shields.io/badge/AWS-S3_·_Athena_·_EC2-0F172A?style=for-the-badge&labelColor=0F172A&logo=amazonwebservices&logoColor=14B8A6" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-S3_·_Athena_·_EC2-0F172A?style=for-the-badge&labelColor=0F172A&logo=amazonwebservices&logoColor=14B8A6" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=14B8A6" />
   <img alt="Git" src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=14B8A6" />
 </p>
