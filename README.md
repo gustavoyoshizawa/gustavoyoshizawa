@@ -1,8 +1,8 @@
-<h1 align="center">Gustavo Yoshizawa</h1>
+<h1 align="start">Gustavo Yoshizawa</h1>
 
-<p align="center"><code>Dados · IA · Cloud</code></p>
+<p align="start"><code>Dados · IA · Cloud</code></p>
 
-<p align="center">
+<p align="start">
   <a href="https://www.linkedin.com/in/gustavo-yoshizawa-17915619b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=14B8A6" /></a>
   <a href="https://gustavo-portfolio-five.vercel.app"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-0F172A?style=flat-square&logo=vercel&logoColor=14B8A6" /></a>
   <a href="mailto:gustavoyoshizawa89@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-0F172A?style=flat-square&logo=gmail&logoColor=14B8A6" /></a>
