@@ -1,17 +1,42 @@
-## Olá, meu nome é Gustavo Yoshizawa
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/gustavo-yoshizawa-17915619b/)
+<h1 align="center">Gustavo Yoshizawa</h1>
 
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoyoshizawa&show_icons=true&theme=tokyonight)
+<p align="center"><code>Dados · IA · Cloud</code></p>
 
-## Técnologias que uso
-<div style="display: inline_block"><br>
-   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="powerbi" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gustavo-yoshizawa-17915619b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=14B8A6" /></a>
+  <a href="https://gustavo-portfolio-five.vercel.app"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-0F172A?style=flat-square&logo=vercel&logoColor=14B8A6" /></a>
+  <a href="mailto:gustavoyoshizawa89@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-0F172A?style=flat-square&logo=gmail&logoColor=14B8A6" /></a>
+</p>
+
+<br>
+
+### Dados
+
+![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=14B8A6)
+![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=flat-square&logo=pandas&logoColor=14B8A6)
+![SQL](https://img.shields.io/badge/SQL-0F172A?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=14B8A6)
+![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=14B8A6)
+![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=14B8A6)
+![Power BI](https://img.shields.io/badge/Power_BI-0F172A?style=flat-square&logo=powerbi&logoColor=14B8A6)
+![Excel](https://img.shields.io/badge/Excel-0F172A?style=flat-square&logo=microsoftexcel&logoColor=14B8A6)
+
+### IA
+
+![IA Generativa](https://img.shields.io/badge/IA_Generativa-0F172A?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0F172A?style=flat-square)
+
+### Cloud
+
+![AWS](https://img.shields.io/badge/AWS_S3_%C2%B7_Athena_%C2%B7_EC2-0F172A?style=flat-square&logo=amazonwebservices&logoColor=14B8A6)
+![Docker](https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=14B8A6)
+![Git](https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=14B8A6)
+![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=14B8A6)
+
+
+<br>
+
+### Certificações
+
+![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS_Certified-AI_Practitioner-14B8A6?style=flat-square&labelColor=0F172A&logo=amazonwebservices&logoColor=14B8A6)
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-14B8A6?style=flat-square&labelColor=0F172A&logo=amazonwebservices&logoColor=14B8A6)
